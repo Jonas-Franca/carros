@@ -8,7 +8,7 @@ export default function App() {
       <section>
         <div>
           <img src={iconSedans} alt="icone dos carros sedan" />
-          <h2>Sedans</h2>
+          <h2 className='text-3xl' >Sedans</h2>
           <p>Escolha um sedan pelo seu preço acessível e excelente economia de combustível. Ideal para dirigir na cidade ou na sua próxima viagem.</p>
           <a href="https://www.webmotors.com.br/carros/sao-paulo-conchal?idcmp=s08%3Ac13%3Ac85ed858091a48ee873891e1a36e29f1&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwnv-vBhBdEiwABCYQA6J8XGFANdu7LfQjXBvvJugQtbSXZxYlA-GUhLveyxu4K_k3qPVl9BoC5AgQAvD_BwE" target="_blank">Ver mais</a>
         </div>
